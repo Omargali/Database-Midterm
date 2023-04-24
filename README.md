@@ -1,5 +1,6 @@
 # Database-Midterm
-Group: 07-N
+Group: 07-N 
+
 Team members: 
 
 Omargali Tlepberegnov (210107016) 
